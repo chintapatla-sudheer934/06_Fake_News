@@ -1,0 +1,1 @@
+# Fake News Detection using NLP\n\nProvide news.csv with `text` and `label` columns (for example REAL/FAKE). Predictions are model estimates, not fact verification. Run `python main.py`.\n
